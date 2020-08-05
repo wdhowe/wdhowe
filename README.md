@@ -25,11 +25,11 @@ I am currently learning Clojure, which has been mind-opening, and a lot of fun.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/wdhowe/wdhowe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdhowe&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=blue&bg_color=1d1f21" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdhowe&layout=compact&theme=nord" alt="GitHub Most Used Language Stats/>
 </a>
 
 <a href="https://github.com/wdhowe/wdhowe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wdhowe&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blue&bg_color=1d1f21" alt="Bill's GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wdhowe&show_icons=true&line_height=27&count_private=true&theme=nord" alt="GitHub Repo Stats" />
 </a>
 
 <!-- Resources -->
