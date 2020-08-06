@@ -25,7 +25,7 @@ I am currently learning Clojure, which has been mind-opening, and a lot of fun.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/wdhowe/wdhowe">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdhowe&layout=compact&card_width=235&theme=nord" alt="GitHub Most Used Language Stats/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdhowe&layout=compact&hide=vim%20script&card_width=235&theme=nord" alt="GitHub Most Used Language Stats/>
 </a>
 
 <a href="https://github.com/wdhowe/wdhowe">
