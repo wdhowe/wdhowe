@@ -2,8 +2,6 @@
 
 My name is Bill and I'm a Software Engineer with a background in Linux, Cloud, Networking, and Security.
 
-I am currently learning Clojure, which has been mind-opening, and a lot of fun.
-
 ## 🔧 Technologies & Tools
 
 ![clojure](https://img.shields.io/badge/Code-Clojure-blue?style=for-the-badge&logo=clojure)
