@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Bill and I'm a Software Engineer with a background in Linux, Cloud, Networking, and Security.
+My name is Bill. I'm a Software Engineer with a background in Linux, Cloud, Networking, and Security.
 
 ## 🔧 Technologies & Tools
 
