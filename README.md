@@ -2,24 +2,6 @@
 
 My name is Bill. I'm a Software Engineer with a background in Linux, Cloud, Networking, and Security.
 
-## 🔧 Technologies & Tools
-
-![clojure](https://img.shields.io/badge/Code-Clojure-blue?style=for-the-badge&logo=clojure)
-![python](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python)
-
-![ansible](https://img.shields.io/badge/Automation-Ansible-blue?style=for-the-badge&logo=ansible)
-![gitlab](https://img.shields.io/badge/Automation-GitlabCI-blue?style=for-the-badge&logo=gitlab)
-![packer](https://img.shields.io/badge/Automation-Packer-blue?style=for-the-badge&logo=packer)
-
-![aws](https://img.shields.io/badge/Cloud-AWS-blue?style=for-the-badge&logo=amazon-aws)
-
-![linux](https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge&logo=linux)
-![bash](https://img.shields.io/badge/Shell-Bash-blue?style=for-the-badge&logo=gnu-bash)
-
-![docker](https://img.shields.io/badge/Tools-Docker-blue?style=for-the-badge&logo=docker)
-![leiningen](https://img.shields.io/badge/Tools-Leiningen-blue?style=for-the-badge&logo=clojure)
-![pypi](https://img.shields.io/badge/Tools-PyPI-blue?style=for-the-badge&logo=pypi)
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/wdhowe/wdhowe">
