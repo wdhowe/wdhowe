@@ -1,7 +1,3 @@
-# Hi there 👋
-
-My name is Bill. I'm a Software Engineer with a background in Linux, Cloud, Networking, and Security.
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/wdhowe/wdhowe">
