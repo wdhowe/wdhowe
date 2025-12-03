@@ -8,8 +8,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=wdhowe&show_icons=true&line_height=27&count_private=true&hide_rank=true&theme=nord" alt="GitHub Repo Stats" />
 </a>
 
+<br clear="left"/>
+
 <!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Shields: https://shields.io/ -->
-<!-- Inspired by: https://github.com/MartinHeinz/MartinHeinz/ -->
